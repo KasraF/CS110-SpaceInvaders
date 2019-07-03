@@ -1,5 +1,2 @@
-# spaceInvaders
-A Space Invaders game my friends and I make in a class group challenge. It's one file in C++, and uses ASCII code for graphics.
-
-The SpaceInvaders01 is the original file as of the end of the team challenge. Any new changes or features will be using a
-copy of that as the source material for a new project.
+# Terminal Space Invaders
+A Terminal-based Space Invaders game my friends and I made in our first Computer Science class. This was for the final group challenge, took around 3 hours to write, and won us the challenge! It's all in one C++ file, and the hopefully some of the ugliest code I will ever commit! :)
